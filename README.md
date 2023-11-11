@@ -1,0 +1,2 @@
+# smogon-webscraper
+Smogon webscraper
