@@ -8,6 +8,8 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 scrapy = "*"
+bs4 = "*"
+selenium = "*"
 
 [dev-packages]
 
